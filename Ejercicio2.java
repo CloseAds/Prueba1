@@ -7,5 +7,6 @@ public class Ejercicio2 {
         int gradosCentígrados;
 
 
+
         }
     }

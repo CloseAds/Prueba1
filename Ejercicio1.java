@@ -7,5 +7,6 @@ public class Ejercicio1 {
         System.out.println(a * b +c * ((3 -a)/(2*b)));
         }
 
+
     }
 
